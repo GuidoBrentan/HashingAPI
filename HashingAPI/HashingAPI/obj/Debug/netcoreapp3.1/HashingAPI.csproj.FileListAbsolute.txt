@@ -1,0 +1,13 @@
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.exe
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.deps.json
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.runtimeconfig.json
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.runtimeconfig.dev.json
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.dll
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\bin\Debug\netcoreapp3.1\HashingAPI.pdb
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.csprojAssemblyReference.cache
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.AssemblyInfoInputs.cache
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.AssemblyInfo.cs
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.csproj.CoreCompileInputs.cache
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.dll
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.pdb
+D:\Trabalhos\RespositorioVS\HashingAPI\HashingAPI\HashingAPI\obj\Debug\netcoreapp3.1\HashingAPI.genruntimeconfig.cache
