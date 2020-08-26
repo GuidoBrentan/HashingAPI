@@ -1,19 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using static System.Console;
 
 namespace HashingAPI
 {
-    class ExibirHashingLinear
+    class ExibirHashingQuadratico
     {
-        public ExibirHashingLinear()
+        public ExibirHashingQuadratico()
         {
             string[] nomes = new string[] {"David", "Jennifer", "Donnie", "Mayo", "Raymond", "Bernica",
                                            "Mike", "Clayton", "Beata", "Michael","Felipe", "Silvana",
                                            "Lucia", "Guilherme", "Monica", "Amélia"};
 
-            HashingLinear hashing = new HashingLinear();
+            HashingQuadratico hashing = new HashingQuadratico();
 
             BackgroundColor = ConsoleColor.White;
             ForegroundColor = ConsoleColor.Black;
@@ -28,9 +26,9 @@ namespace HashingAPI
                 if (i != 0 && i != 8 && i != 9)
                     Write(" | " + nomes[i]);
 
-                if(i == 8)
+                if (i == 8)
                     Write(" | " + nomes[i] + "\n");
-                if(i == 9)
+                if (i == 9)
                     Write(nomes[i]);
             }
 
@@ -38,7 +36,7 @@ namespace HashingAPI
             ReadLine();
             SetCursorPosition(0, 5);
             WriteLine("                                   ");
-            WriteLine("\n \nIremos adicionar utilizando o método de Sondagem Linear: ");
+            WriteLine("\n \nIremos adicionar utilizando o método de Sondagem Quadrática: ");
 
             for (var i = 0; i < nomes.Length; i++)
             {
@@ -63,7 +61,7 @@ namespace HashingAPI
             }
 
             WriteLine("O nosso vetor ficou assim: ");
-            for(var i = 0; i < hashing.Hash.Length; i++)
+            for (var i = 0; i < hashing.Hash.Length; i++)
             {
                 if (hashing.Hash[i] != null)
                     WriteLine(i + " -> " + hashing.Hash[i]);

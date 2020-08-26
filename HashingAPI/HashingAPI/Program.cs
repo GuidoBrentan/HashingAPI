@@ -25,6 +25,7 @@ namespace HashingAPI
 
                     case '2':
                     {
+                        new ExibirHashingQuadratico();
                         ExibirMenu();
                     }
                     break;
